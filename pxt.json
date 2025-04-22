@@ -11,6 +11,10 @@
         "test.ts"
     ],
     "targetVersions": {
+        "branch": "v1.0.0",
+        "tag": "test1",
+        "target": "1.8.22",
+        "pxt": "6.1.42",
         "targetId": "arcade"
     },
     "supportedTargets": [
